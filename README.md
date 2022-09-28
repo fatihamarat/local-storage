@@ -1,1 +1,1 @@
-# local-storage
+# session-storage
